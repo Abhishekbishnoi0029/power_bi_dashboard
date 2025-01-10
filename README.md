@@ -4,8 +4,10 @@
 **Project Name: Mobile Sales DashboardPurpose:** 
 
 This Power BI project is designed to analyze and visualize mobile phone sales data across different regions, brands, and timeframes. It provides actionable insights for business decision-making and helps in identifying key performance indicators (KPIs) such as total sales, quantity sold, transaction methods, and customer ratings.
-https://github.com/Abhishekbishnoi0029/power_bi_dashboard/blob/main/Dashboard%20Preview.jpg
-![dashboard_preview](https://github.com/Abhishekbishnoi0029/power_bi_dashboard/blob/main/Dashboard%20Preview.jpg)
+
+![dashboard_preview](https://github.com/Abhishekbishnoi0029/power_bi_dashboard/blob/main/Dashboard.jpg)
+![same_period_last_year](https://github.com/Abhishekbishnoi0029/power_bi_dashboard/blob/main/Same%20Period%20Last%20Year%20report.jpg)
+![MTD_REPORT](https://github.com/Abhishekbishnoi0029/power_bi_dashboard/blob/main/MTD%20Report.jpg)
 
 
 **Business Problems**
